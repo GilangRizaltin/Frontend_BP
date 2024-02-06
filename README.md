@@ -69,7 +69,7 @@ VITE_BACKEND_HOST = "YOUR BACKEND URL"
 
 <a name="backend"></a>
 
-[Backend Coffee Shop (Javascript)](https://github.com/GilangRizaltin/Frontend_BP)
+[Backend Coffee Shop (Javascript)](https://github.com/GilangRizaltin/Backend_BP)
 
 ## Support
 
